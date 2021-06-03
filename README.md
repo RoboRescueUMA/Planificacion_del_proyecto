@@ -1,1 +1,1 @@
-Planificacion_del_proyecto
+Planificación del proyecto, dividido en dos partes, una timeline donde podemos ver todo el progreso del equipo desde un punto de vista general, y un tablero, donde podemos ver qué tareas tenemos asignadas, así como los recursos que tenemos disponibles.
